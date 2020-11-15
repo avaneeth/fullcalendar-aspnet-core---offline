@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>axios</id>
+        <version>0.16.2</version>
+        <authors>axios</authors>
+        <projectUrl>https://github.com/axios/axios</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Promise based HTTP client for the browser and node.js</description>
+    </metadata>
+</package>
